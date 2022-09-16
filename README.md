@@ -1,10 +1,6 @@
 <h1 align="center">Hi, This is Abdur Rakib</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibnr30&label=Profile%20views&color=0e75b6&style=flat" alt="rakibnr30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibnr30" alt="rakibnr30" /></a> </p>
-
 - 🔭 I’m currently working on [PLAAS SMS](http://63.142.251.34:8100/)
 
 - 📫 How to reach me **abdurrakib.cs@gmail.com**
