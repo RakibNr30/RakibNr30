@@ -1,9 +1,8 @@
-<h1 align="center">Hi, This is Abdur Rakib</h1>
-<h3 align="center">Software Developer</h3>
+<h2 align="left">Hi, This is Abdur Rakib</h2>
 
-- 🔭 I’m currently working on [PLAAS SMS](http://63.142.251.34:8100/)
+🔭 I’m currently working on [PLAAS SMS](http://63.142.251.34:8100/)
 
-- 📫 How to reach me **abdurrakib.cs@gmail.com**
+📫 How to reach me **abdurrakib.cs@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
