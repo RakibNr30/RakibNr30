@@ -14,5 +14,5 @@
 <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&locale=en" alt="rakibnr30" />
 
 <p>
-  <img align="center" style="margin-top: 28px" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" />
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" />
 </p>
