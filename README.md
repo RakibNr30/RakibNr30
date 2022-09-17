@@ -11,7 +11,7 @@
 </p>
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibnr30&show_icons=true&locale=en&layout=compact" alt="rakibnr30" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&locale=en" alt="rakibnr30" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&locale=en" alt="rakibnr30" />
 
 <p style="margin-top: 28px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" />
