@@ -12,6 +12,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibnr30&show_icons=true&locale=en&layout=compact" alt="rakibnr30" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&locale=en" alt="rakibnr30" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&locale=en" alt="rakibnr30" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" /></p>
