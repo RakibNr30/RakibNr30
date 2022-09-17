@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [PLAAS SMS](http://63.142.251.34:8100/)
 
-📫 How to reach me **abdurrakib.cs@gmail.com**
+📫 Reach me through **abdurrakib.cs@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
