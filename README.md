@@ -1,4 +1,4 @@
-# Hi, This is [Abdur Rakib](https://www.linkedin.com/in/rakibnr30/)
+# Hi, This is [Abdur Rakib](https://www.linkedin.com/in/rakibnr30/){:target="_blank" rel="noopener"}
 
 🔭 I’m currently working on [PLAAS SMS](http://63.142.251.34:8100/)
 
