@@ -1,6 +1,6 @@
 # Hi, This is [Abdur Rakib](https://www.linkedin.com/in/rakibnr30/)
 
-🔭 I’m currently working on **[PLAAS SMS](http://63.142.251.34:8100/)**
+🔭 I’m currently working on **[PLAAS SMS](http://103.9.143.170:8080)**
 
 📫 Reach me through **abdurrakib.cs@gmail.com**
 
