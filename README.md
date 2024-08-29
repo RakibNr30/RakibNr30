@@ -12,5 +12,4 @@
 <br>
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibnr30&show_icons=true&hide=blade&locale=en&layout=compact" alt="rakibnr30" />
-<!--- <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=rakibnr30&show_icons=true&findTotalCommits=true&count_private=true&locale=en" alt="rakibnr30" /> --->
 <img align="center" width="100%" style="margin-top: 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" />
