@@ -11,5 +11,5 @@
 
 <br>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibnr30&show_icons=true&hide=blade&locale=en&layout=compact" alt="rakibnr30" />
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibnr30&show_icons=true&hide=blade&locale=en&layout=compact" alt="rakibnr30" />
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibnr30&" alt="rakibnr30" />
